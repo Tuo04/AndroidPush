@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "137225876117",
+    "firebase_url": "https://testandroid-56550.firebaseio.com",
+    "project_id": "testandroid-56550",
+    "storage_bucket": "testandroid-56550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137225876117:android:e839315e197cfb7d",
+        "android_client_info": {
+          "package_name": "TestPush.TestPush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137225876117-vnon15khjsnopns5llf9odsraek4dgc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3JCApDoxv9h4UtAXFJWdYbwq21Ka9-eA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
