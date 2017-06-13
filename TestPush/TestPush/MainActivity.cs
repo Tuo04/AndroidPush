@@ -23,7 +23,7 @@ namespace TestPush
             // Set our view from the "main" layout resource
             SetContentView (Resource.Layout.Main);
 
-            MobileCenter.Start("a7a883bc-c9d3-40b7-a40a-062d02e5d3e3",
+            MobileCenter.Start("f7c0c80d-2b7c-4e18-b57b-348733360240",
                    typeof(Analytics), typeof(Crashes), typeof(Push));
             Push.Enabled = true;
         }

@@ -116,7 +116,6 @@ D:\Users\v-tuchen\testAndroid\AndroidPush\TestPush\TestPush\obj\Release\XbdMerge
 D:\Users\v-tuchen\testAndroid\AndroidPush\TestPush\TestPush\obj\Release\XbdMerge\Xamarin.Firebase.Messaging.dll.stamp
 D:\Users\v-tuchen\testAndroid\AndroidPush\TestPush\TestPush\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
 D:\Users\v-tuchen\testAndroid\AndroidPush\TestPush\TestPush\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Plus.dll.stamp
-D:\Users\v-tuchen\testAndroid\AndroidPush\TestPush\TestPush\obj\Release\res\values\goog_svcs_json.xml
 D:\Users\v-tuchen\testAndroid\AndroidPush\TestPush\TestPush\obj\Release\ProcessGoogleServicesJson.stamp
 D:\Users\v-tuchen\testAndroid\AndroidPush\TestPush\TestPush\obj\Release\TestPush.csproj.CoreCompileInputs.cache
 D:\Users\v-tuchen\testAndroid\AndroidPush\TestPush\TestPush\obj\Release\TestPush.dll
