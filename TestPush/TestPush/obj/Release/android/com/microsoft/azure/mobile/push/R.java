@@ -131,8 +131,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int main=0x7f030000;
     }
     public static final class string {
-        public static final int ApplicationName=0x7f050028;
-        public static final int Hello=0x7f050027;
+        public static final int ApplicationName=0x7f050021;
+        public static final int Hello=0x7f050020;
         public static final int common_google_play_services_enable_button=0x7f050001;
         public static final int common_google_play_services_enable_text=0x7f050002;
         public static final int common_google_play_services_enable_title=0x7f050003;
@@ -150,13 +150,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int common_open_on_phone=0x7f05000e;
         public static final int common_signin_button_text=0x7f05000f;
         public static final int common_signin_button_text_long=0x7f050010;
-        public static final int default_web_client_id=0x7f050022;
-        public static final int firebase_database_url=0x7f050023;
-        public static final int gcm_defaultSenderId=0x7f050020;
-        public static final int google_api_key=0x7f050024;
-        public static final int google_app_id=0x7f050021;
-        public static final int google_crash_reporting_api_key=0x7f050025;
-        public static final int google_storage_bucket=0x7f050026;
         public static final int library_name=0x7f050011;
         public static final int mobile_center_distribute_dialog_actioned_on_disabled_toast=0x7f050012;
         public static final int mobile_center_distribute_download_progress_number_format=0x7f050013;
