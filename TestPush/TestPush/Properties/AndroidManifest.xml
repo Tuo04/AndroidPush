@@ -3,8 +3,8 @@
 	<uses-sdk android:minSdkVersion="25" android:targetSdkVersion="25" />
 	<application android:label="TestPush">
     <receiver
-        android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
-        android:exported="false" />
+android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+android:exported="false" />
     <receiver
     android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
     android:exported="true"

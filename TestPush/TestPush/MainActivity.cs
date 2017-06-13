@@ -23,9 +23,9 @@ namespace TestPush
             // Set our view from the "main" layout resource
             SetContentView (Resource.Layout.Main);
 
-            MobileCenter.SetServerUrl("https://in-staging-south-centralus.staging.avalanch.es");
+            MobileCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
 
-            MobileCenter.Start("f7c0c80d-2b7c-4e18-b57b-348733360240",
+            MobileCenter.Start("f7c0c80d-2b7c-4e18-b57b-348733360240", 
                    typeof(Analytics), typeof(Crashes), typeof(Push));
             Push.Enabled = true;
         }
