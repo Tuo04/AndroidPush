@@ -152,9 +152,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="GettingStarted.Xamarin" />
-    <GoogleServicesJson Include="google-services.json" />
+    <GoogleServicesJson Include="google-services.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </GoogleServicesJson>
     <None Include="packages.config" />
-    <ProguardConfiguration Include="proguard.cfg" />
+    <ProguardConfiguration Include="proguard.cfg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </ProguardConfiguration>
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
   </ItemGroup>
